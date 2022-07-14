@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AceAsif
-- I am a graduate of Bachelor of ICT from University of Tasmania. My major was Software Development.
+- I am a graduate of Bachelor of ICT from University of Tasmania (UTAS). My major was Software Development.
 - My university github account is "MdAsifIq". Link: https://github.com/MdAsifIq
 - My university github account will be deleted or deactivated after my university deletes my email and account.
 - 👀 I’m interested in doing Java, Python, Kotlin, Swift and Flutter programming.

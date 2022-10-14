@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AceAsif
+- 👋 Hi, I’m Asif
 - I am a graduate of Bachelor of ICT from University of Tasmania (UTAS). My major was Software Development.
 - My university github account is "MdAsifIq". Link: https://github.com/MdAsifIq
 - My university github account will be deleted or deactivated after my university deletes my email and account.

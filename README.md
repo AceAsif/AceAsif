@@ -3,7 +3,7 @@
 - My university github account is "MdAsifIq". Link: https://github.com/MdAsifIq
 - My university github account will be deleted or deactivated after my university deletes my email and account.
 - 👀 I’m interested in doing Java, Python, Kotlin, Swift and Flutter programming.
-- 🌱 I’m currently learning advanced features of Java.
+- 🌱 I’m currently developing a dating app.
 - 💞️ I’m looking to collaborate on making websites and mobile apps.
 - 📫 How to reach me asif3678@gmail.com
 

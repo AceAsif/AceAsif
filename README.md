@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Asif
-- I am a graduate of Bachelor of ICT from University of Tasmania (UTAS). My major was Software Development.
 - I am currently working in Hydro Tasmania and this github repository contains all my personal projects.
 - My university github account is "MdAsifIq". Link: https://github.com/MdAsifIq
 - My university github account will be deleted or deactivated after my university deletes my email and account.

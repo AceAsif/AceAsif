@@ -30,19 +30,9 @@
 
 ### 🛠️ Languages and Tools
 
-**Data & analytics**
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,react,firebase,sqlite,aws,git,github,androidstudio" />
 
-<img src="https://skillicons.dev/icons?i=powerbi,python,r,sqlite,mysql,aws" />
-
-**Apps & web**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,js,html,css,kotlin,swift,java" />
-
-**Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,androidstudio,vscode" />
-
-Also: **ServiceNow** (reporting & dashboards), **Excel**, **Google Play Console**
+Also: **Power BI**, **ServiceNow** (reporting & dashboards), **Excel**, **R**
 
 ---
 
@@ -50,10 +40,6 @@ Also: **ServiceNow** (reporting & dashboards), **Excel**, **Google Play Console*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AceAsif&theme=default&hide_border=false" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceAsif&layout=compact&hide_border=false" alt="Top languages" />
 </p>
 
 ---
@@ -65,4 +51,4 @@ Also: **ServiceNow** (reporting & dashboards), **Excel**, **Google Play Console*
 
 ### 🔗 Connect with me
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/md-asif-iqbal-b00477172/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
